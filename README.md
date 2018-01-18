@@ -15,7 +15,7 @@
 
 设置界面：
 
-<img src="./Others/ScreenShots/Setting-03.png" height="500" hspace="20" style="display: inline-block"> <img src="./Others/ScreenShots/Setting-02.jpg" height="500" hspace="20" style="display: inline-block">
+<img src="./Others/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block"> 
 
 
 ---
@@ -71,5 +71,5 @@
 
 #### 听说你想请我喝下午茶？😏
 
-<img src="http://upload-images.jianshu.io/upload_images/965383-cbc86dc1d75a6242.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"/>&nbsp;&nbsp;&nbsp;<img src="http://upload-images.jianshu.io/upload_images/965383-76a1c7c91b987e1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"  />
+<img src="https://github.com/xiaofu666/WechatPlus/blob/master/Other/11516182821_.pic.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/xiaofu666/WechatPlus/blob/master/Other/21516182821_.pic.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"  />
 
