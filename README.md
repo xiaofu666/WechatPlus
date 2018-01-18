@@ -15,7 +15,7 @@
 
 设置界面：
 
-<img src="./Other/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block">
+<img src="./Other/51516255904_.pic.jpg" height="500" hspace="20" style="display: inline-block"><img src="./Other/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block">
 
 
 ---
@@ -25,7 +25,7 @@
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  (重签名)
 * Xcode 或者 PP助手 (安装ipa)
 * iOS 证书(可用Xcode生成临时开发证书，然而只能用7天)
-* ipa文件(可直接下载下面百度云的app文件，如果重新注入动态库，请于PP助手下载**越狱版**的微信)
+* APP文件(可直接下载下面百度云的app文件)
 
 
 #### 1. 生成临时证书(~~若有证书忽略该步骤~~)
