@@ -15,7 +15,7 @@
 
 设置界面：
 
-<img src="./Others/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block"> 
+<img src="./Other/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block">
 
 
 ---
