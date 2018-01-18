@@ -20,17 +20,12 @@
 
 ---
 
-### 安装
-
-~~详细安装方法可参考[iOS 逆向 - 微信 helloWorld](http://www.tkkk.fun/2017/03/19/%E9%80%86%E5%90%91-%E5%BE%AE%E4%BF%A1helloWorld/)~~
-
 #### 0. 准备
 
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)  (重签名)
 * Xcode 或者 PP助手 (安装ipa)
 * iOS 证书(可用Xcode生成临时开发证书，然而只能用7天)
 * ipa文件(可直接下载下面百度云的app文件，如果重新注入动态库，请于PP助手下载**越狱版**的微信)
-* [theos](https://github.com/theos/theos)(编写tweak工具，若不修改源码则不需要该工具)
 
 
 #### 1. 生成临时证书(~~若有证书忽略该步骤~~)
@@ -40,8 +35,7 @@
 #### 2. 生成注入的app文件
 
 * 可直接通过百度云下载
-
-链接: https://pan.baidu.com/s/1o7UBqL8 密码: f71u (微信版本 6.6.1)
+链接:https://pan.baidu.com/s/1dGCAMRn  密码:l6ie(微信版本 6.6.1)
 
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
