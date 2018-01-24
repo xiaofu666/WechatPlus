@@ -37,8 +37,8 @@
 #### 2. 生成注入的app文件
 
 * 可直接通过百度云下载
-old:链接:https://pan.baidu.com/s/1i6Z3Aw1  密码:5q8k(微信版本 6.6.1)
-new:链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1,增加修改地理位置功能)
+* * * old:链接:https://pan.baidu.com/s/1i6Z3Aw1  密码:5q8k(微信版本 6.6.1)
+* * * new:链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1,增加修改地理位置功能)
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
 ![iOS App Signer.app.png](http://upload-images.jianshu.io/upload_images/965383-c3daf12a77c8204b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
