@@ -5,13 +5,12 @@
 
 ### 功能
 - [x] 修改微信运动步数
+- [x] 修改地理位置
 - [x] 消息防撤回
 - [x] 自动抢红包
 - [x] 抢自己的红包
 - [x] 防止多人同时抢红包
 - [x] 群聊过滤
-### 装逼新秀
-- [x] 修改地理位置
 
 ### 截图
 
@@ -37,8 +36,8 @@
 #### 2. 生成注入的app文件
 
 * 可直接通过百度云下载
-* * * old:链接:https://pan.baidu.com/s/1i6Z3Aw1  密码:5q8k(微信版本 6.6.1)
-* * * new:链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1,增加修改地理位置功能)
+链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1)
+
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
 ![iOS App Signer.app.png](http://upload-images.jianshu.io/upload_images/965383-c3daf12a77c8204b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
