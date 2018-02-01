@@ -36,7 +36,10 @@
 #### 2. 生成注入的app文件
 
 * 可直接通过百度云下载
+
 链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1)
+
+链接:https://pan.baidu.com/s/1kXin1wN  密码:tzwx(微信版本 6.6.2)
 
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
