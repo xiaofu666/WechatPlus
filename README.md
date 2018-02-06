@@ -1,29 +1,26 @@
 # WeChatPlugin-iOS
 
-微信小助手-iOS版 v1.0.0
+微信小助手-iOS版 v2.0.0
 
 ## 为了大家正月里可以及时抢到红包,给大家更新一个可以后台抢红包的微信插件包
-- [x] 支持后台抢红包
-- [x] 增加各种模拟真实用户抢红包功能,防止年底腾讯微信的封杀
-- [x] 支持剪刀石头布以及掷骰子的游戏作弊
-
-链接:https://pan.baidu.com/s/1jJRuK6q  密码:95h1(增加后台抢红包及游戏作弊)
 
 ### 功能
+- [x] 自动抢红包
+- [x] 抢自己的红包
+- [x] 支持后台抢红包
+- [x] 防止多人同时抢红包
+- [x] 群聊过滤
+- [x] 增加各种模拟真实用户抢红包功能,防止年底腾讯微信的封杀
+- [x] 支持剪刀石头布以及掷骰子的游戏作弊
 - [x] 修改微信运动步数
 - [x] 修改地理位置
 - [x] 消息防撤回
-- [x] 自动抢红包
-- [x] 抢自己的红包
-- [x] 防止多人同时抢红包
-- [x] 群聊过滤
 
 ### 截图
 
 设置界面：
 
-<img src="./Other/51516255904_.pic.jpg" height="500" hspace="20" style="display: inline-block"><img src="./Other/41516248328_.pic.jpg" height="500" hspace="20" style="display: inline-block">
-
+<img src="./Other/51516255904_.pic.jpg" height="500" hspace="20" style="display: inline-block"><img src="./Other/21517902562_.pic.jpg" height="500" hspace="20" style="display: inline-block"><img src="./Other/31517902563_.pic.jpg" height="500" hspace="20" style="display: inline-block">
 
 ---
 
@@ -43,9 +40,7 @@
 
 * 可直接通过百度云下载
 
-链接:https://pan.baidu.com/s/1smjMyFN  密码:l0cj(微信版本 6.6.1)
-
-链接:https://pan.baidu.com/s/1kXin1wN  密码:tzwx(微信版本 6.6.2)
+链接:https://pan.baidu.com/s/1mj8tQxq  密码:4u95(微信版本 6.6.2)
 
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
