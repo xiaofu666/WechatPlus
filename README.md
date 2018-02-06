@@ -20,7 +20,7 @@
 
 设置界面：
 
-<img src="./Other/51516255904_.pic.jpg" height="400" hspace="0" style="display: inline-block"><img src="./Other/21517902562_.pic.jpg" height="400" hspace="0" style="display: inline-block"><img src="./Other/31517902563_.pic.jpg" height="400" hspace="0" style="display: inline-block">
+<img src="./Other/51516255904_.pic.jpg" height="400" hspace="20" style="display: inline-block"><img src="./Other/21517902562_.pic.jpg" height="400" hspace="20" style="display: inline-block"><img src="./Other/31517902563_.pic.jpg" height="400" hspace="20" style="display: inline-block">
 
 ---
 
