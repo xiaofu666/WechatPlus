@@ -43,7 +43,7 @@
 
 * 可直接通过百度云下载
 
-链接:https://pan.baidu.com/s/1cdXVOXRmDYCesis5fAgUAQ  密码:ri4q(微信版本 6.6.5-持续更新)
+链接:https://pan.baidu.com/s/1JBkmhIyrmHqbKg8E6uUolA  密码:75ml(微信版本 6.6.6-同步微信更新)
 
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
