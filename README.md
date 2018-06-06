@@ -37,7 +37,7 @@
 
 #### 1. 生成临时证书(~~若有证书忽略该步骤~~)
 使用 Xcode 创建一个 iOS 的 Project，选择方框1 的开发者，并用真机运行(~~使证书导入到 iPhone~~)。
-![Xcode.png](http://upload-images.jianshu.io/upload_images/965383-e730b53fe95ab166.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Xcode.png](https://upload-images.jianshu.io/upload_images/12555132-ca47f9a309deae55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 2. 生成注入的app文件
 
@@ -47,7 +47,7 @@
 
 #### 3. 使用`iOS App Signer.app` 进行重签名
 
-![iOS App Signer.app.png](http://upload-images.jianshu.io/upload_images/965383-c3daf12a77c8204b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![iOS App Signer.app.png](https://upload-images.jianshu.io/upload_images/12555132-448e262a0e326a18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * `Input File` 选择上面的app文件。
 * `Signing Certificate` 选择第一步中的开发者账号(方框3)
@@ -59,7 +59,7 @@
 
 打开Xcode-Window-Devices，将重签名的ipa文件拖到方框中，或者点击`+`添加ipa，即可完成。
 
-![Device.png](http://upload-images.jianshu.io/upload_images/965383-abb8cf54a6acabbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Device.png](https://upload-images.jianshu.io/upload_images/12555132-1526958db3b5b050.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 5. iOS权限设置
 
