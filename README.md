@@ -73,5 +73,5 @@
 
 #### 听说你想请我喝下午茶？😏
 
-<img src="https://upload-images.jianshu.io/upload_images/12555132-327b709186bcf8a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"/>&nbsp;&nbsp;&nbsp;<img src="https://upload-images.jianshu.io/upload_images/12555132-739d47f06701dc93.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="250" hspace="50"  />
+<img src="https://upload-images.jianshu.io/upload_images/12555132-327b709186bcf8a2.jpg" height="250" hspace="50"/>&nbsp;&nbsp;&nbsp;<img src="https://upload-images.jianshu.io/upload_images/12555132-739d47f06701dc93.jpg" height="250" hspace="50"  />
 
