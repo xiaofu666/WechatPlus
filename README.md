@@ -23,7 +23,7 @@
 
 设置界面：
 
-<img src="https://upload-images.jianshu.io/upload_images/12555132-3191426e071ca47c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="400" hspace="20" style="display: inline-block"><img src="https://upload-images.jianshu.io/upload_images/12555132-6d924084be157503.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="400" hspace="20" style="display: inline-block"><img src="https://upload-images.jianshu.io/upload_images/12555132-15b180b209ebe98b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" height="400" hspace="20" style="display: inline-block">
+<img src="https://upload-images.jianshu.io/upload_images/12555132-3191426e071ca47c.jpg" height="400" hspace="20" style="display: inline-block"><img src="https://upload-images.jianshu.io/upload_images/12555132-6d924084be157503.jpg" height="400" hspace="20" style="display: inline-block"><img src="https://upload-images.jianshu.io/upload_images/12555132-15b180b209ebe98b.jpg" height="400" hspace="20" style="display: inline-block">
 
 ---
 
